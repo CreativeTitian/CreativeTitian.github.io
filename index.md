@@ -4,7 +4,7 @@ We create creations!
 
 ### Daily Calorie
 
-[Privacy Policy](creativetitian.github.io/DailyCalorie/DailyCaloriePrivacyPolicy.html)
+[Privacy Policy](creativetitian.github.io/bluemoonprivacypolicy.html)
 
 ### Blue Moon
 
