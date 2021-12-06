@@ -8,7 +8,7 @@ We create creations!
 
 ### Blue Moon
 
-[Privacy Policy](creativetitian.github.io/BlueMoon/BlueMoonPrivacyPolicy.html)
+[Privacy Policy](creativetitian.github.io/BlueMoon/dailycalorieprivacypolicy.html)
 
 ### Credits
 
