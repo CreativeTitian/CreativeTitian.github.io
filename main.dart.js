@@ -32569,7 +32569,7 @@ return A.TD(A.a([B.ch,new A.qh(A.aj9(s,s,new A.pZ("images/logo.png",1.3,s,s)),s)
 $S:54}
 A.a_B.prototype={
 $0(){var s=new A.a_C()
-return A.TD(A.a([B.ch,s.$1("We Create Creations !"),A.a7P(this.a.$1("We Create Creations!"),1),s.$1("Est. 2021 Studio Creative Titian"),B.ch],t.E),B.dO,B.ey,B.d7)},
+return A.TD(A.a([B.ch,s.$1("We Create Creations !"),A.a7P(this.a.$1("We\nCreate\nCreations!"),1),s.$1("Est. 2021 Studio Creative Titian"),B.ch],t.E),B.dO,B.ey,B.d7)},
 $S:54}
 A.a_C.prototype={
 $1(a){return new A.n5(3,A.a9m(a,B.FI,B.cl,null),null)},
