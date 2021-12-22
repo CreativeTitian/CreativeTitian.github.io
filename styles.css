@@ -1,3 +1,7 @@
+body {
+    background-color: #000000;
+}
+
 .loader, .loader:after {
     border-radius: 50%;
     width: 10em;
@@ -5,8 +9,6 @@
 }
 
 .loader {
-    background-color: black;
-    vertical-align: middle;
     margin: 60px auto;
     font-size: 10px;
     position: relative;
