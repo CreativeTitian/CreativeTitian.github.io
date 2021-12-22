@@ -6,6 +6,7 @@
 
 .loader {
     background-color: black;
+    vertical-align: middle;
     margin: 60px auto;
     font-size: 10px;
     position: relative;
